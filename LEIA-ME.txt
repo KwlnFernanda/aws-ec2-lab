@@ -1,0 +1,17 @@
+Imagens do laboratorio AWS EC2
+
+Todas as capturas enviadas durante o passo a passo foram reunidas aqui.
+As imagens 01 e 14 foram redigidas para ocultar dados da conta antes de uso em repositorio publico.
+
+Sugestao para o README:
+- 03-status-instancia-saudavel.png
+- 05-acesso-ssh-comandos-linux.png
+- 07-nginx-active-running.png
+- 08-nginx-pagina-padrao.png
+- 09-pagina-personalizada-ec2.png
+- 12-instancia-interrompida.png
+- 13-pagina-apos-reinicio-novo-ip.png
+- 14-security-group-regras-redigida.png
+- 16-validacao-curl-nginx.png
+
+A captura 02 mostra o erro inicial de conexao pelo navegador e pode ser usada na secao de dificuldades/solucao de problemas.
